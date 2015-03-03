@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/PeterCofo/Mac19/raw/master/ProBooking.ipa</string>
+					<string>https://github.com/PeterCofo/Mac19/raw/master/MAC19-CDM/Mac19.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Probooking</string>
+				<string>com.bnpparibas.Mac19</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ProBooking</string>
+				<string>Mac 10</string>
 			</dict>
 		</dict>
 	</array>
